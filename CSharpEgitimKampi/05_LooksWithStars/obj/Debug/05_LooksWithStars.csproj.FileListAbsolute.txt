@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\CSharpEgitimKampi\05_LooksWithStars\bin\Debug\05_LooksWithStars.exe.config
+C:\Users\Lenovo\source\repos\CSharpEgitimKampi\05_LooksWithStars\bin\Debug\05_LooksWithStars.exe
+C:\Users\Lenovo\source\repos\CSharpEgitimKampi\05_LooksWithStars\bin\Debug\05_LooksWithStars.pdb
+C:\Users\Lenovo\source\repos\CSharpEgitimKampi\05_LooksWithStars\obj\Debug\05_LooksWithStars.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CSharpEgitimKampi\05_LooksWithStars\obj\Debug\05_LooksWithStars.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CSharpEgitimKampi\05_LooksWithStars\obj\Debug\05_LooksWithStars.exe
+C:\Users\Lenovo\source\repos\CSharpEgitimKampi\05_LooksWithStars\obj\Debug\05_LooksWithStars.pdb
